@@ -1,0 +1,6 @@
+Old English,catt,Middle English,cat, inherited_from
+Proto-West Germanic,*frijōn,English,free, inherited_from
+Ancient Greek,θησαυρός,Latin,thesaurus, derived_from
+Arabic,جَزِيرَة القَمَر,English,Comoros, derived_from
+Ancient Greek,θησαυρός,English,thesaurus, derived_from
+Latin,thesaurus,English,thesaurus, borrowed_from

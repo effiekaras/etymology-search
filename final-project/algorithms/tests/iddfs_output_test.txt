@@ -1,0 +1,6 @@
+Starting depth 0
+ancient greek,θησαυρός
+Starting depth 1
+ancient greek,θησαυρός
+latin,thesaurus
+english,thesaurus

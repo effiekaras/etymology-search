@@ -1,0 +1,1030 @@
+Starting depth 0
+english,roland
+Starting depth 1
+english,roland
+proto-west germanic,*hroþiland
+english,orlando
+english,orlando
+cebuano,roland
+Starting depth 2
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+Starting depth 3
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+Starting depth 4
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+english,orlando
+english,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+Starting depth 5
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+italian,orlando
+proto-west germanic,*hroþiland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+english,orlando
+english,orlando
+english,roland
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+english,roland
+cebuano,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+italian,orlando
+proto-west germanic,*hroþiland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+english,orlando
+english,orlando
+english,roland
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+english,roland
+cebuano,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+cebuano,orlando
+italian,orlando
+Starting depth 6
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+italian,orlando
+proto-west germanic,*hroþiland
+english,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+english,roland
+cebuano,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,roland
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,orlando
+italian,orlando
+proto-west germanic,*hroþiland
+cebuano,orlando
+english,roland
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+cebuano,orlando
+italian,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+Starting depth 7
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+english,orlando
+english,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+english,orlando
+english,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+cebuano,orlando
+italian,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+english,orlando
+english,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+cebuano,orlando
+italian,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,roland
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+cebuano,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+cebuano,orlando
+italian,orlando
+english,roland
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+english,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+english,orlando
+cebuano,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+cebuano,orlando
+english,orlando
+english,roland
+italian,orlando
+proto-west germanic,*hroþiland
+english,roland
+english,roland
+proto-west germanic,*hroþiland
+cebuano,roland
+english,roland
+english,orlando
+english,roland
+italian,orlando
+english,roland
+cebuano,orlando
+cebuano,roland
+proto-west germanic,*hroþiland
+english,roland
+english,orlando
+cebuano,orlando
+italian,orlando
+portuguese,orlando
+portuguese,rolando
+english,orlando
+english,roland
+proto-west germanic,*hroþiland
+english,roland
+cebuano,orlando

@@ -1,0 +1,9 @@
+Arabic,جَزِيرَة القَمَر,Arabicجَزِيرَة القَمَر
+Middle English,cat,Middle Englishcat
+Old English,catt,Old Englishcatt
+English,free,Englishfree
+Ancient Greek,θησαυρός,Ancient Greekθησαυρός
+Latin,thesaurus,Latinthesaurus
+English,Comoros,EnglishComoros
+Proto-West Germanic,*frijōn,Proto-West Germanic*frijōn
+English,thesaurus,Englishthesaurus

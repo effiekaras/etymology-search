@@ -1,0 +1,9 @@
+arabic,جَزِيرَة القَمَر
+english,comoros
+middle english,cat
+old english,catt
+english,free
+ancient greek,θησαυρός
+latin,thesaurus
+english,thesaurus
+proto-west germanic,*frijōn
