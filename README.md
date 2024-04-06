@@ -1,7 +1,6 @@
 # README
-#### effiek2-meghan7-ericrc3-cconley3
 
-# Presentation Link: https://youtu.be/H9Y_mCj_x7I
+# Interactive Etymology Search 
 
 ## Major Code, Data, and Results
 
